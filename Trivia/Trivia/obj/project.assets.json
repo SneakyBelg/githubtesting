@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\school\\trivia-master\\C#\\netcore2.1\\Trivia\\Trivia\\Trivia.csproj",
+      "projectUniqueName": "C:\\Users\\matthias\\Documents\\GitHub\\githubtesting\\Trivia\\Trivia\\Trivia.csproj",
       "projectName": "Trivia",
-      "projectPath": "D:\\school\\trivia-master\\C#\\netcore2.1\\Trivia\\Trivia\\Trivia.csproj",
+      "projectPath": "C:\\Users\\matthias\\Documents\\GitHub\\githubtesting\\Trivia\\Trivia\\Trivia.csproj",
       "packagesPath": "C:\\Users\\matthias\\.nuget\\packages\\",
-      "outputPath": "D:\\school\\trivia-master\\C#\\netcore2.1\\Trivia\\Trivia\\obj\\",
+      "outputPath": "C:\\Users\\matthias\\Documents\\GitHub\\githubtesting\\Trivia\\Trivia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

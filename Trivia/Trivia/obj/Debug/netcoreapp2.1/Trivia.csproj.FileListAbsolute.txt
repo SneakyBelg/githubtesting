@@ -9,3 +9,14 @@ D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Triv
 D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.AssemblyInfo.cs
 D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.dll
 D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.pdb
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.deps.json
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.runtimeconfig.json
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.runtimeconfig.dev.json
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.dll
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.pdb
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.csprojAssemblyReference.cache
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.AssemblyInfoInputs.cache
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.AssemblyInfo.cs
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.dll
+C:\Users\matthias\Documents\GitHub\githubtesting\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.pdb
