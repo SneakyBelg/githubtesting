@@ -1,0 +1,11 @@
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.deps.json
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.runtimeconfig.json
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.runtimeconfig.dev.json
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.dll
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\bin\Debug\netcoreapp2.1\Trivia.pdb
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.csprojAssemblyReference.cache
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.csproj.CoreCompileInputs.cache
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.AssemblyInfoInputs.cache
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.AssemblyInfo.cs
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.dll
+D:\school\trivia-master\C#\netcore2.1\Trivia\Trivia\obj\Debug\netcoreapp2.1\Trivia.pdb
